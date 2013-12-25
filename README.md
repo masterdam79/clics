@@ -1,4 +1,4 @@
-clihosting
+clics
 ==========
 
-Server control scripts, no GUI
+CLI Control Scripts, no GUI
